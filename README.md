@@ -7,13 +7,18 @@
 - 💬 Ask me about **Front End Technologies**
 
 - 📫 How to reach me **juancp98second@outlook.com**
+  
+ &nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-cruz-pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-cruz-pereira" height="30" width="40" /></a>
 </p>
 
+ &nbsp;
+ 
 <h3 align="left">Languages and Tools:</h3>
+ &nbsp;
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -32,8 +37,13 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatwhoone&show_icons=true&locale=en&layout=compact" alt="greatwhoone" /></p>
+ &nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greatwhoone&show_icons=true&locale=en" alt="greatwhoone" /></p>
+<div align="center">  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatwhoone&show_icons=true&locale=en&layout=compact" alt="greatwhoone" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=greatwhoone&show_icons=true&locale=en" alt="greatwhoone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greatwhoone&" alt="greatwhoone" /></p>
+</div>
+
