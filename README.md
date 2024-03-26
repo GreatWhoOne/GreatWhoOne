@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQHm8XxASJlmhA/profile-displaybackgroundimage-shrink_350_1400/0/1660943293195?e=1709164800&v=beta&t=hStNPpli0A8eOvz6NtWrT9J6_bMdfbkDphUYM5D_GaE)](https://www.linkedin.com/in/juan-cruz-pereira/)
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQHm8XxASJlmhA/profile-displaybackgroundimage-shrink_350_1400/0/1660943293195?e=1717027200&v=beta&t=gFC4H51h1VFsS7drC7mD_3KH0IuwrU4-kqndEfcDo3E)](https://www.linkedin.com/in/juan-cruz-pereira/)
 <h1 align="center">Hi 👋, I'm Juan Cruz Pereira</h1>
 <h3 align="center">Front End Web Developer</h3>
 
