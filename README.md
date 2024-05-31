@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQHm8XxASJlmhA/profile-displaybackgroundimage-shrink_350_1400/0/1660943293195?e=1722470400&v=beta&t=q-8b5CpnI6gyvVWzVDE7B9A1FpQVlTNWGyP16909_Xs)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQHm8XxASJlmhA/profile-displaybackgroundimage-shrink_350_1400/0/1660943293195?e=1722470400&v=beta&t=q-8b5CpnI6gyvVWzVDE7B9A1FpQVlTNWGyP16909_Xs)
 <h1 align="center">Hi 👋, I'm Juan Cruz Pereira</h1>
 <h3 align="center">Front End Web Developer</h3>
 
