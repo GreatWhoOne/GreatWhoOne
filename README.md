@@ -76,11 +76,9 @@
 
  &nbsp;
 
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatwhoone&show_icons=true&locale=en&layout=compact" alt="greatwhoone" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatwhoone&show_icons=true&locale=en&layout=compact" alt="greatwhoone" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=greatwhoone&show_icons=true&locale=en" alt="greatwhoone" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greatwhoone&" alt="greatwhoone" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greatwhoone&" alt="greatwhoone" /></p> -->
 
